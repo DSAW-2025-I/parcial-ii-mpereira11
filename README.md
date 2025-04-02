@@ -5,7 +5,7 @@
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
 
 ## Link Despliegue
-***Martin Pereira Alcalde - 320193(1)***
+***Martin Pereira Alcalde - 320193***
 
 **Despliegue:** https://parcial-ii-mpereira11.vercel.app/
 
