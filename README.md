@@ -1,7 +1,22 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CBIH3_Lj)
 # Web Development Exam - Backend with Express.js
 
 ## Overview
 Este examen evalúa tu capacidad para construir un backend básico usando Express.js. Crearás una API sencilla para gestionar información de productos.
+
+## Link Despliegue
+***Martin Pereira Alcalde - 320193***
+
+**Despliegue:** https://parcial-ii-mpereira11.vercel.app/
+
+## Imagenes de Soporte - Evidencia Funcionamiento
+<img src="images/enpoint1.png">
+<img src="images/endpoint2.png">
+<img src="images/endpoint3.png">
+<img src="images/endpoint4.png">
+<img src="images/endpoint2.png">
+<img src="images/endpoint6.png">
+<img src="images/endpoint7.png">
 
 ## Instrucciones
 - Tienes **1:30 horas** para completar el examen.
