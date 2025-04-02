@@ -8,6 +8,16 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 ***Martin Pereira Alcalde - 320193(1)***
 
 **Despliegue:** https://parcial-ii-mpereira11.vercel.app/
+
+## Imagenes de Soporte - Evidencia Funcionamiento
+<img src="images/enpoint1.png">
+<img src="images/endpoint2.png">
+<img src="images/endpoint3.png">
+<img src="images/endpoint4.png">
+<img src="images/endpoint2.png">
+<img src="images/endpoint6.png">
+<img src="images/endpoint7.png">
+
 ## Instrucciones
 - Tienes **1:30 horas** para completar el examen.
 - Escribe **código limpio y bien documentado**.
